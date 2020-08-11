@@ -1,0 +1,12 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "springfox.documentation.swagger.v2.path",
+      "type": "java.lang.String",
+      "description": "spring fox documentation swagger v2.path.",
+      "defaultValue": ""
+    }
+  ],
+  "hints": []
+}

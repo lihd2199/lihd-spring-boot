@@ -9,10 +9,10 @@
         <version>2.3.2.RELEASE</version>
         <relativePath/>
     </parent>
-    <groupId>com.lihd.es</groupId>
-    <artifactId>lihd-es</artifactId>
+    <groupId>com.lihd.springboot</groupId>
+    <artifactId>lihd-springboot</artifactId>
     <version>0.0.1</version>
-    <name>lihd-es</name>
+    <name>lihd-springboot</name>
 
     <properties>
         <java.version>1.8</java.version>
