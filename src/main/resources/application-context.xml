@@ -7,6 +7,6 @@
            http://www.lihd.com/schema/customer
            http://www.lihd.com/schema/customer.xsd">
 
-    <customer:customer name="hd_li" id="12"/>
+    <customer:config name="hd_li" id="12"/>
 
 </beans>

@@ -3,7 +3,7 @@
         targetNamespace="http://www.lihd.com/schema/customer"
         elementFormDefault="qualified">
 
-    <element name="customer">
+    <element name="config">
         <complexType>
             <attribute name="id" type="integer"/>
             <attribute name="name" type="string"/>

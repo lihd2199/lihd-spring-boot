@@ -10,6 +10,6 @@ public class CustomerNameSpaceHandler extends NamespaceHandlerSupport {
 
     @Override
     public void init() {
-        registerBeanDefinitionParser("customer", new CustomerBeanDefinitionParser());
+        registerBeanDefinitionParser("config", new CustomerBeanDefinitionParser());
     }
 }
